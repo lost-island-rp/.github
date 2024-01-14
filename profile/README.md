@@ -10,11 +10,26 @@
   Built with ❤️
 </p>
 
+<p align="center">
+  <a href="https://discord.gg/nMKzkJD4TR">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/@lostislandrp">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="https://www.tiktok.com/@lostislandroleplay">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
+  </a>
+  <a href="https://web.facebook.com/LIRP1GTASAMP">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
+  </a>
+</p>
+
 ## Description
 
-Discover a server with exclusive classified features! Don't miss out on Lost Island Roleplay, offering a unique and realistic roleplay system unlike typical open.mp servers. With almost 3 years of existence, we're returning to reward the dedicated players who have supported us through ups and down, also to our prospect players to give them the quality server that they're looking for. [Join now](https://discord.gg/nMKzkJD4TR) and experience something you won't find elsewhere!
+Discover a server with exclusive classified features! Don't miss out on Lost Island Roleplay, offering a unique and realistic roleplay system unlike typical open.mp servers. With almost 3 years of existence, we're returning to reward the dedicated players who have supported us through ups and down, also to our prospect players to give them the quality server that they're looking for. Join now and experience something you won't find elsewhere!
 
-## Meet the team:
+## Meet the team
 
 Our dedicated team of developer(s) and staff(s) are passionate about delivering the best possible roleplay experience. Meet some of the key members:
 
