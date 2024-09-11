@@ -21,11 +21,20 @@
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
   </a>
   <a href="https://web.facebook.com/LIRP1GTASAMP">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
 </p>
 
 ## Description
+
+<p align="center">
+    <a href="[https://github.com/lostislandroleplay/server/actions/workflows/build.yml](https://github.com/lostislandroleplay/server/actions/workflows/weekly.yml)">
+      <img src="https://github.com/lostislandroleplay/server/actions/workflows/weekly.yml/badge.svg" alt="Weekly" />
+    </a>
+    <a href="https://github.com/lostislandroleplay/server/actions/workflows/build.yml">
+      <img src="https://github.com/lostislandroleplay/server/actions/workflows/build.yml/badge.svg" alt="Build" />
+    </a>
+</p>
 
 Discover a server with exclusive classified features! Don't miss out on Lost Island Roleplay, offering a unique and realistic roleplay system unlike typical open.mp servers. With almost 3 years of existence, we're returning to reward the dedicated players who have supported us through ups and down, also to our prospect players to give them the quality server that they're looking for. Join now and experience something you won't find elsewhere!
 
